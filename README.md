@@ -1,2 +1,2 @@
 DEMO
-RAndom readme file
+Rndom readme file
